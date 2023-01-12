@@ -1,7 +1,6 @@
-body{
-    background: #127ad5;
+.TituloPrincipal{
+    padding-left: 30px;
 }
-
 #barber {
     width: 50%;
    }
@@ -9,11 +8,6 @@ body{
 .principal{
     background: #e6e7df;
     padding: 20px;
-}
-
-h1{
-    text-align: center;
-    height: 150;
 }
 
 p{
@@ -33,7 +27,7 @@ em strong{
     padding: 30px; /*espacio*/
 }
 
-h2{
+.TituloCentrado{
     text-align: center;
 }
 
