@@ -3,11 +3,12 @@ body{
 }
 
 #barber {
-    width: 80%;
+    width: 50%;
    }
 
 .principal{
     background: #e6e7df;
+    padding: 20px;
 }
 
 h1{
@@ -29,6 +30,7 @@ em strong{
 
 .Difen{
     background: #FFFFFF;
+    padding: 30px; /*espacio*/
 }
 
 h2{
@@ -37,4 +39,19 @@ h2{
 
 .items {
     font-style: italic;
+}
+
+ul{
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+}
+/* display: inline-block; = alinea la lista arriba
+    vertical-align: top; = alinamiento vertical parte superior
+    width: 20%; = ancho del 20% totla
+    margin-right: 15%; = anchura */
+
+.corte1{
+    width: 50%;
 }
