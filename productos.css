@@ -1,0 +1,17 @@
+header{
+    background-color: #bbbbbb;
+}
+
+nav li{
+    display: inline;
+    margin: 0 0 0 15;/*espaciamiento de panel de navegación*/
+}
+
+nav a{
+    text-transform: uppercase; /*Separacion*/
+    color: black; /*color*/
+    font-weight: bold; /*negritas bold*/
+    font-size: 22px; /*Tamaño*/
+    text-decoration: none; /**/
+}
+
