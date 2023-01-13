@@ -8,7 +8,7 @@ nav li{
 }
 
 nav a{
-    text-transform: uppercase; /*Separacion*/
+    text-transform: uppercase; /*texto en mayuscula*/
     color: black; /*color*/
     font-weight: bold; /*negritas bold*/
     font-size: 22px; /*Tamaño*/
