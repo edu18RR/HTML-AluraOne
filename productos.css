@@ -46,3 +46,13 @@ nav a{
     font-size: 30px;/*modificando letra*/
     font-weight: bold; /*tipo de letra*/
 }
+
+.prodDescripcion{
+    font-size: 18px;
+}
+
+.ProPrecio{
+    font-size: 20px; /*tamaño letra*/
+    font-weight: bold;
+    margin-top: 10px;/*separacion*/
+}
