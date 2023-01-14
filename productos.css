@@ -29,3 +29,6 @@ nav a{
     text-decoration: none; /**/
 }
 
+.productos li{
+    display: inline-block; /*Alinear en bloque*/
+}
