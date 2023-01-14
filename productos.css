@@ -38,3 +38,8 @@ nav a{
 .productos li{
     display: inline-block; /*Alinear en bloque*/
 }
+
+.productos h2{
+    font-size: 30px;/*modificando letra*/
+    font-weight: bold; /*tipo de letra*/
+}
