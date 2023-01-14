@@ -36,10 +36,12 @@ nav a{
 }
 
 .productos li{
-    display: inline-block; /*Alinear en bloque*/
+    display: inline-block; /*Ajuste de largo y alto*/
     text-align: center; /*texto al centro*/
     width: 30%; 
     vertical-align: top;/*Aliniación vertical*/
+    background: #cccc;
+    
 }
 
 .productos h2{
