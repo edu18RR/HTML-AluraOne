@@ -29,6 +29,12 @@ nav a{
     text-decoration: none; /**/
 }
 
+.productos{
+    width: 940px; /*Ancho*/
+    position: relative;
+    margin: 0 auto; /*Margen en automatico*/ 
+}
+
 .productos li{
     display: inline-block; /*Alinear en bloque*/
 }
