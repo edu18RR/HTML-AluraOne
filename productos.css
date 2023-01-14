@@ -31,8 +31,8 @@ nav a{
 
 .productos{
     width: 940px; /*Ancho*/
-    position: relative;
     margin: 0 auto; /*Margen en automatico*/ 
+    padding: 50px; /*espaciamientos*/
 }
 
 .productos li{
