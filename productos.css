@@ -6,7 +6,7 @@ header{
 .caja{
     width: 940px; /*Ancho*/
     position: relative;
-    margin: 0 auto; /*Margen en automatico*/ 
+    margin: 0 auto; /*Margen externo en automatico*/ 
     
 }
 
@@ -40,8 +40,10 @@ nav a{
     text-align: center; /*texto al centro*/
     width: 30%; 
     vertical-align: top;/*Aliniación vertical*/
-    background: #cccc;
-    
+    background: #cccc; /*fondo*/
+    margin: 0 1.5%; /*Margen externo*/ 
+    padding: 30px 20px;
+    box-sizing: border-box; /*borde de las cajas*/
 }
 
 .productos h2{
