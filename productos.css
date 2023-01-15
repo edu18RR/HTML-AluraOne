@@ -29,6 +29,11 @@ nav a{
     text-decoration: none; /**/
 }
 
+nav a:hover{/*Movimiento del maus*/
+    color: rgb(27, 138, 138); /*color*/
+    text-decoration: underline; /*texto subrayado*/
+}
+
 .productos{
     width: 940px; /*Ancho*/
     margin: 0 auto; /*Margen en automatico*/ 
