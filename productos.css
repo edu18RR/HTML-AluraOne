@@ -55,11 +55,16 @@ nav a:hover{/*Movimiento del maus*/
 
 .productos li:hover{
     border-color: rgb(217, 232, 46);
+    font-size: 33px;
+}
+
+.productos li:active{
+    border-color: rgb(68, 234, 126);
 }
 
 .productos h2{
-    font-size: 30px;/*modificando letra*/
-    font-weight: bold; /*tipo de letra*/
+    font-size: 30px;
+    font-weight: bold;
 }
 
 .prodDescripcion{
