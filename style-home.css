@@ -1,0 +1,52 @@
+.TituloPrincipal{
+    padding-left: 30px;
+}
+
+#barber {
+    width: 100%;
+   }
+
+.principal{
+    background: #e6e7df;
+    padding: 20px;
+}
+
+p{
+    text-align: center;
+}
+
+em strong{
+    color:red;
+}
+
+#mision {
+    font-size: 20px
+}
+
+.Difen{
+    background: #FFFFFF;
+    padding: 30px; /*espacio*/
+}
+
+.TituloCentrado{
+    text-align: center;
+}
+
+.items {
+    font-style: italic;
+}
+
+ul{
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+}
+/* display: inline-block; = alinea la lista arriba
+    vertical-align: top; = alinamiento vertical parte superior
+    width: 20%; = ancho del 20% totla
+    margin-right: 15%; = anchura */
+
+.corte1{
+    width: 50%;
+}
