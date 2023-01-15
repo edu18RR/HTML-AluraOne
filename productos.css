@@ -79,3 +79,9 @@ nav a:hover{/*Movimiento del maus*/
     font-weight: bold;
     margin-top: 10px;/*separacion*/
 }
+
+footer{
+    text-align: center;
+    background: url(/banner/bg.jpg); /*acupa el 100*/
+    padding: 40px;/*expaciamiento interno para arriba*/
+}
