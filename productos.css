@@ -85,3 +85,9 @@ footer{
     background: url(/banner/bg.jpg); /*acupa el 100*/
     padding: 40px;/*expaciamiento interno para arriba*/
 }
+
+.Copyright{
+    color: #bbbbbb;
+    font-size: 13px; /*Tamaño de letra*/    
+    margin: 20px;/*margen abjo*/
+}
