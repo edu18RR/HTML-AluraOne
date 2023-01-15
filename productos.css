@@ -30,7 +30,7 @@ nav a{
 }
 
 nav a:hover{/*Movimiento del maus*/
-    color: rgb(93, 228, 228); /*color*/
+    color: rgb(68, 234, 126); /*color*/
     text-decoration: underline; /*texto subrayado*/
 }
 
