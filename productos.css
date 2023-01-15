@@ -30,7 +30,7 @@ nav a{
 }
 
 nav a:hover{/*Movimiento del maus*/
-    color: rgb(27, 138, 138); /*color*/
+    color: rgb(93, 228, 228); /*color*/
     text-decoration: underline; /*texto subrayado*/
 }
 
@@ -51,6 +51,10 @@ nav a:hover{/*Movimiento del maus*/
     box-sizing: border-box; /*borde de las cajas*/
     border: 2px solid #000; /*tamaño, estilo y color*/
     border-radius: 10px ;/*borde redondeado*/
+}
+
+.productos li:hover{
+    border-color: rgb(217, 232, 46);
 }
 
 .productos h2{
