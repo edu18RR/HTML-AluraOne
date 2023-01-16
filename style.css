@@ -91,3 +91,8 @@ footer{
     font-size: 13px; /*Tamaño de letra*/    
     margin: 20px;/*margen abajo*/
 }
+
+main{
+    width: 940px;
+    margin: 0 auto;
+}
