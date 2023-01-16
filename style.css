@@ -119,3 +119,14 @@ form input {
     padding: 10px 25px;
     width: 50%;
 }
+
+.input-padron {
+    display: block;
+    margin: 0 0 20px;
+    padding: 10px 25px;
+    width: 50%;
+}
+
+.checkbox {
+    margin: 20px 0;
+}
