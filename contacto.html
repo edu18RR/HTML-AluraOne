@@ -39,34 +39,31 @@
                 <textarea cols="70" rows="10" id="mensaje" class="input-padron"></textarea>
 
                 <div>
-                    <p>¿Cual será tu medio de contacto</p>
+                    <p>¿Cómo le gustaría que lo contactemos?</p>
 
-                    <div>
-                        <p>¿Cómo le gustaría que lo contactemos?</p>
+                    <label for="radio-email"><input type="radio" name="contacto" value="email" 
+                    id="radio-email">Email</label>
                     
-                        <label for="radio-email"><input type="radio" name="contacto" value="email" 
-                        id="radio-email">Email</label>
+                    <label for="radio-telefono"><input type="radio" name="contacto" value="telefono" 
+                    id="radio-telefono">Teléfono</label>
                     
-                        <label for="radio-telefono"><input type="radio" name="contacto" 
-                        value="telefono" id="radio-telefono">Teléfono</label>
+                    <label for="radio-whatsapp"><input type="radio" name="contacto" value="whatsapp" 
+                    id="radio-whatsapp">WhatsApp</label>
                     
-                        <label for="radio-whatsapp"><input type="radio" name="contacto" 
-                        value="whatsapp" id="radio-whatsapp">WhatsApp</label>
-                    
-                    </div>
                 </div>
-                
+               
                 <div>
-                    <p>¿En cuál horario prefiere ser atendido?</p>
+                    <p>¿En qué horario prefiere ser atendido?</p>
                     <select>
                         <option>Mañana</option>
                         <option>Tarde</option>
                         <option>Noche</option>
                     </select>
                 </div>
-
+                
                 <label class="checkbox"><input type="checkbox">Le gustaría recibir novedades de la 
-                Barbería Alura?</label>      
+                Barbería Alura?</label>                
+                
                 <input type="submit" value="Enviar formulario">
 
             </form>
