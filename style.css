@@ -127,4 +127,10 @@ form label, form legend{
     background: orange; /*fondo del box*/
     border: none; /*none = sin borde*/
     border-radius: 5px; /*tamaño del borde*/
+    transition: 2s background;
+    cursor: pointer; /*manita al pasa por el boton enviar*/
+}
+
+.enviar:hover{
+    background: orangered;
 }
