@@ -117,3 +117,14 @@ form label, form legend{
 .checkbox{
     margin:20px 0;
 }
+
+.enviar {
+    width: 40%; /*ocupar espacio a lo largo*/
+    padding: 15px 0;
+    font-size: 18px;
+    font-weight: bold;
+    color: azure; /*color de la letra*/
+    background: orange; /*fondo del box*/
+    border: none; /*none = sin borde*/
+    border-radius: 5px; /*tamaño del borde*/
+}
