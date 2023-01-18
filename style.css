@@ -1,5 +1,5 @@
 header{
-    background-color: #bbbbbb;
+    background-color: #16a1b3;
     padding: 20px 0; /*espaciamiento externo 20 superior e inferior y 0 en los laterales */
 }
 
@@ -160,6 +160,7 @@ td, th{
     text-align: center;
     font-size: 2em;/*tamaño de funte*/
     margin:0 0 1em; /*Separación hacia abajo*/
+    clear: left;
 }
 
 .principal p{
@@ -177,6 +178,8 @@ td, th{
 
 .material{
     width: 120px;
+    float: left;
+    margin: 0 20px 20px 0; /*aplicar para el externo en  sentido del reloj*/
 }
 
 .corteDiferencial{
