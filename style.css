@@ -135,3 +135,13 @@ form label, form legend{
     background: orangered;
     transform: scale(1.2);/*aumento*/
 }
+table{
+    margin: 40px 40px;    /*margen externo ambos lados*/
+}
+
+thead{
+    background: #555555; /*color de fondo*/
+    color: aliceblue; /*color letra*/
+    font-weight: bold; /*negritas*/
+    
+}
