@@ -175,6 +175,10 @@ td, th{
     font-style: italic;
 }
 
-.corte1{
+.material{
+    width: 120px;
+}
+
+.corteDiferencial{
     width: 60%;
 }
