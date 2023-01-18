@@ -142,6 +142,10 @@ table{
 thead{
     background: #555555; /*color de fondo*/
     color: aliceblue; /*color letra*/
-    font-weight: bold; /*negritas*/
-    
+    font-weight: bold; /*negritas*/    
+}
+
+td, th{
+    border: 1px solid #000000; /*tamaño de borde solido y color negro*/
+    padding: 8px 15px; /*espaciamiento interno alto y ancho*/
 }
