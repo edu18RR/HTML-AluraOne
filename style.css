@@ -161,3 +161,16 @@ td, th{
     font-size: 2em;/*tamaño de funte*/
     margin:0 0 1em; /*Separación hacia abajo*/
 }
+
+.principal p{
+    margin:0 0 1em; /*Separación hacia abajo*/    
+}
+
+.principal strong {
+    font-weight: bold;/*peso de la fuente*/
+    
+}
+
+.principal em{
+    font-style: italic;
+}
