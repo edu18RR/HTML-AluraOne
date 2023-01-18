@@ -155,3 +155,9 @@ td, th{
 .barber {
     width: 100%;
 }
+
+.Tprincipal {
+    text-align: center;
+    font-size: 2em;/*tamaño de funte*/
+    margin:0 0 1em; /*Separación hacia abajo*/
+}
