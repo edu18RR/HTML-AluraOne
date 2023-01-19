@@ -195,6 +195,11 @@ td, th{
     text-align: center;
 }
 
+.contenidoDiferencial{
+    width: 640px;
+    margin: 0 auto;
+}
+
 .corteDiferencial{
     width: 60%;
 }
