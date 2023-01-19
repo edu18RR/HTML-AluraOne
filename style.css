@@ -207,7 +207,7 @@ td, th{
 }
 
 .items{
-    line-height: 2.5; /*espacio entre filas*/
+    line-height: 2.5; /*espacio entre filas de lista de diferenciales*/
 }
 
 .corteDiferencial{
