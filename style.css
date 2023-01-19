@@ -186,6 +186,11 @@ td, th{
     margin: 0 20px 20px 0; /*aplicar para el externo en  sentido del reloj*/
 }
 
+.mapa{
+    padding: 3em 0;
+}
+
+
 .corteDiferencial{
     width: 60%;
 }
