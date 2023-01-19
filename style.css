@@ -200,6 +200,16 @@ td, th{
     margin: 0 auto;
 }
 
+.listaDiferencial{
+    width: 40%;
+    display: inline-block; /*se mueve hacia costado*/
+    vertical-align: top; /*se mueve hacia arriba*/
+}
+
+.items{
+    line-height: 2.5; /*espacio entre filas*/
+}
+
 .corteDiferencial{
     width: 60%;
 }
