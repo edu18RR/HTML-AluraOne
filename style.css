@@ -159,6 +159,10 @@ td, th{
 .barber {
     width: 100%;
 }
+.principal{
+    padding: 3em 0; /*Separando principal*/
+    background: #fefefe;
+}
 
 .Tprincipal {
     text-align: center;
