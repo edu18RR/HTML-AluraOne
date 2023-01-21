@@ -97,8 +97,7 @@ footer{
 }
 
 main{
-    width: 940px;
-    margin: 0 auto;    
+   
 }
 
 form{
@@ -162,6 +161,8 @@ td, th{
 .principal{
     padding: 3em 0; /*Separando principal*/
     background: #fefefe;
+    width: 940px;
+    margin: 0 auto; 
 }
 
 .Tprincipal {
@@ -199,6 +200,11 @@ td, th{
     text-align: center;
 }
 
+.diferenciales{
+    padding: 3em 0;
+    background: #666666;
+
+}
 .contenidoDiferencial{
     width: 640px;
     margin: 0 auto;
