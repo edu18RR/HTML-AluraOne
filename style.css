@@ -96,10 +96,6 @@ footer{
     margin: 20px;/*margen abajo*/
 }
 
-main{
-   
-}
-
 form{
     margin: 40px 0;
 }
@@ -193,7 +189,7 @@ td, th{
 
 .mapa{/*fondo de mapa*/
     padding: 3em 0;
-    background: linear-gradient(#fefefe, #7deff3);
+    background: linear-gradient(#fefefe, #4cd4d8);
 }
 
 .mapa p{/*mapa etiqueta parrafo*/
@@ -209,7 +205,7 @@ td, th{
 
 .diferenciales{
     padding: 3em 0;
-    background: #77f2f6; /*fondo de diferenciales*/
+    background: #35d4d9; /*fondo de diferenciales*/
 }
 
 .contenidoDiferencial{
