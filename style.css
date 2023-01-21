@@ -191,20 +191,27 @@ td, th{
     margin: 0 20px 20px 0; /*aplicar para el externo en  sentido del reloj*/
 }
 
-.mapa{
+.mapa{/*fondo de mapa*/
     padding: 3em 0;
+    background: linear-gradient(#fefefe, #7deff3);
 }
 
-.mapa p{
+.mapa p{/*mapa etiqueta parrafo*/
     margin: 0 0 2em;
     text-align: center;
 }
 
-.diferenciales{
-    padding: 3em 0;
-    background: #666666;
+.mapacontenido{ /*div de mapa*/
+    width: 940px;
+    margin: 0 auto; /*centrado*/
 
 }
+
+.diferenciales{
+    padding: 3em 0;
+    background: #77f2f6; /*fondo de diferenciales*/
+}
+
 .contenidoDiferencial{
     width: 640px;
     margin: 0 auto;
