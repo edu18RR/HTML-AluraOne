@@ -3,7 +3,7 @@ body{
 }
 
 header{
-    background-color: #16a1b3;
+    background: linear-gradient( #18b8cd, #f5f8f8);
     padding: 20px 0; /*espaciamiento externo 20 superior e inferior y 0 en los laterales */
 }
 
@@ -168,6 +168,12 @@ td, th{
     clear: left;
 }
 
+.Tprincipal::first-letter{ /*Primera letra de los primeros parrafos*/
+    font-weight: bold;
+    /*tambien: Tprincipal:before o after*/
+    /*conter: "["*/
+}
+
 .principal p{
     margin:0 0 1em; /*Separación hacia abajo*/    
 }
@@ -198,7 +204,7 @@ td, th{
 }
 
 .mapacontenido{ /*div de mapa*/
-    width: 940px;
+    width: 640px;
     margin: 0 auto; /*centrado*/
 
 }
@@ -223,6 +229,10 @@ td, th{
     line-height: 2.5; /*espacio entre filas de lista de diferenciales*/
 }
 
+.items::before{
+    content: "💫";
+
+}
 .corteDiferencial{
     width: 60%;
 }
