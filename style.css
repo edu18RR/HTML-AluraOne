@@ -229,8 +229,8 @@ td, th{
     line-height: 2.5; /*espacio entre filas de lista de diferenciales*/
 }
 
-.items::before{
-    content: "💫";
+.items::before{ /*agregando 🌀 a diferenciales*/
+    content: "🌀";
 
 }
 .corteDiferencial{
