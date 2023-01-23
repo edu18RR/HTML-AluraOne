@@ -152,7 +152,7 @@ td, th{
 /* Estilo para el index*/
 
 .barber {
-    width: 100%;
+    width: 100% ;
 }
 .principal{
     padding: 3em 0; /*Separando principal*/
@@ -229,12 +229,17 @@ td, th{
     line-height: 2.5; /*espacio entre filas de lista de diferenciales*/
 }
 
-.items::before{ /*agregando 🌀 a diferenciales*/
+.items:before{ /*agregando 🌀 a diferenciales*/
     content: "🌀";
 
 }
+
 .corteDiferencial{
     width: 60%;
+}
+
+.corteDiferencial:hover{/*Aplicando opacidad a img*/
+    opacity: 0.3;
 }
 
 .video{
