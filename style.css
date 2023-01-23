@@ -234,9 +234,11 @@ td, th{
 
 }
 
-.corteDiferencial{
+.corteDiferencial{ /*img corte*/
     width: 60%;
     transition: 400ms; /*tiempo a la opacidad*/
+    box-shadow: 10px 10px 30px 15px #000000; /*sombra*/ /*el 3ro es difumación 4to expanción*/
+
 }
 
 .corteDiferencial:hover{/*Aplicando opacidad a img*/
