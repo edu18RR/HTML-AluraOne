@@ -236,6 +236,7 @@ td, th{
 
 .corteDiferencial{
     width: 60%;
+    transition: 400ms; /*tiempo a la opacidad*/
 }
 
 .corteDiferencial:hover{/*Aplicando opacidad a img*/
