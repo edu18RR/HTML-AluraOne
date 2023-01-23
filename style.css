@@ -251,8 +251,25 @@ td, th{
     margin: 1em auto; /*centar*/
 }
 
-@media screen and (max-width: 480px){
-    body{
-        background: red;
+@media screen and (max-width: 480px){ /*responsive*/
+
+    h1{
+        text-align: center;
     }
+
+    nav{
+        position: static;
+    }
+
+   .caja, .principal, .mapacontenido, .contenidoDiferencial, .video{
+    width: auto;
+   }
+   
+   .listaDiferencial, .corteDiferencial{
+    width: 100%;
+   }
+   
+    /*body{
+        background: red;   --- solo es prueba 
+    }*/
 }
